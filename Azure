@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-08T09:12:26.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="RcI2simJxAGaX1vhLUSx" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-08T13:50:45.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="ZcHG0t3MxrlTBHdlnSJm" version="13.6.9" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1913" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
+    <mxGraphModel dx="1914" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,6 +60,12 @@
         </mxCell>
         <mxCell id="mrTVTbl0ijHktMqQyyew-2119" value="Public Subnet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mrTVTbl0ijHktMqQyyew-2122" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mrTVTbl0ijHktMqQyyew-2123" value="VNET Peering" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="274" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
