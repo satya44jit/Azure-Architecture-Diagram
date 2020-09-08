@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-08T08:32:39.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="t7L0OSOrF6lbQDBvw8x-" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-08T08:47:12.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="mL0g2wvEhixwtxYYmwVJ" version="13.6.9" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1913" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -24,6 +24,42 @@
         </mxCell>
         <mxCell id="mrTVTbl0ijHktMqQyyew-2103" value="VNET2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="237.75" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mrTVTbl0ijHktMqQyyew-2104" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mrTVTbl0ijHktMqQyyew-2105" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="140" y="340" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mrTVTbl0ijHktMqQyyew-2106" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="294" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mrTVTbl0ijHktMqQyyew-2107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mrTVTbl0ijHktMqQyyew-2108" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430" y="340" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mrTVTbl0ijHktMqQyyew-2109" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="530" y="294" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mrTVTbl0ijHktMqQyyew-2110" value="Private Subnet" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430" y="274" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mrTVTbl0ijHktMqQyyew-2113" value="Private Subnet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="274" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mrTVTbl0ijHktMqQyyew-2115" value="Private Subnet" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="435" y="354" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mrTVTbl0ijHktMqQyyew-2116" value="Private Subnet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="356" width="40" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="mrTVTbl0ijHktMqQyyew-2118" value="Public Subnet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mrTVTbl0ijHktMqQyyew-2119" value="Public Subnet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="310" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
