@@ -3,7 +3,7 @@
   "project_id": {},
   "dataset_id": {},
   "forecast_horizon": 10,
-  "data_path": "C:\\Users\\satyajit.samantray\\Desktop\\Hackathon 2020\\data\\",
+  "data_path": "/root/Hackathon 2020/data/",
   "cols_for_table": [
     "week",
     "center_id",
@@ -15,7 +15,7 @@
     "meal_id"
   ],
   "input_path": "",
-  "output_path": "C:\\Users\\satyajit.samantray\\Desktop\\Hackathon 2020\\dev\\",
+  "output_path": "/root/Hackathon 2020/dev/",
   "time": "week",
   "dep_var": "num_orders",
   "indep_var": [],

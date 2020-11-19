@@ -41,7 +41,7 @@ logger.info(f"Job Started. Starting at: {start}")
 # DATA PREPERATION
 # Importing the config json file
 
-json_path = "C:\\Users\\satyajit.samantray\\Desktop\\Hackathon 2020\\dev\\"
+json_path = "/root/Hackathon 2020/dev/"
 with open(os.path.join(json_path, "config_arima.json")) as f:
     config_data = json.load(f)
 
