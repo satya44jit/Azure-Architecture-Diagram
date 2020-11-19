@@ -1,0 +1,24 @@
+{
+  "holdout_period": 4,
+  "project_id": {},
+  "dataset_id": {},
+  "forecast_horizon": 10,
+  "data_path": "C:\\Users\\satyajit.samantray\\Desktop\\Hackathon 2020\\data\\",
+  "cols_for_table": [
+    "week",
+    "center_id",
+    "meal_id",
+    "num_orders"
+  ],
+  "list_attr": [
+    "center_id",
+    "meal_id"
+  ],
+  "input_path": "",
+  "output_path": "C:\\Users\\satyajit.samantray\\Desktop\\Hackathon 2020\\dev\\",
+  "time": "week",
+  "dep_var": "num_orders",
+  "indep_var": [],
+  "forecast_date": "2019-07-14",
+  "accuracy_week_range": 6
+}
